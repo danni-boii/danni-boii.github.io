@@ -27,7 +27,7 @@ class App extends React.Component {
                     </ul>
                     <hr />
                         <Switch>
-                            <Route exact path="/" component={Home} />
+                            <Route path="/" component={Home} />
                             <Route path="/file" component={Image} />
                             <Route path="/slideshow" component={Slideshow} />
                             <Route path="*" component={NoMatch} />
