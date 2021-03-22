@@ -23,10 +23,10 @@ import "assets/css/nucleo-icons.css";
 import "assets/scss/blk-design-system-react.scss?v=1.2.0";
 import "assets/demo/demo.css";
 
-import Index from "views/Index.js";
-import LandingPage from "views/examples/LandingPage.js";
-import RegisterPage from "views/examples/RegisterPage.js";
-import ProfilePage from "views/examples/ProfilePage.js";
+import Index from "views/Index.jsx";
+import LandingPage from "views/examples/LandingPage.jsx";
+import RegisterPage from "views/examples/RegisterPage.jsx";
+import ProfilePage from "views/examples/ProfilePage.jsx";
 
 ReactDOM.render(
   <BrowserRouter>
