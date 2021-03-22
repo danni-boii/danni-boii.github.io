@@ -1,7 +1,6 @@
 {
     "name": "realtime-weather-app",
     "version": "0.1.1",
-    "main": "index.js",
     "private": true,
     "homepage": "https://danni-boii.github.io/",
     "dependencies": {
