@@ -2,7 +2,7 @@
     "name": "testing_website",
     "version": "0.1.1",
     "private": false,
-    "main": "app.js",
+    "main": "index.js",
     "homepage": "https://danni-boii.github.io/",
     "dependencies": {
         "@emotion/core": "^10.1.1",
