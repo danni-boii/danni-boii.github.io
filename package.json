@@ -1,7 +1,7 @@
 {
-    "name": "realtime-weather-app",
+    "name": "testing_website",
     "version": "0.1.1",
-    "private": true,
+    "private": false,
     "homepage": "https://danni-boii.github.io/",
     "dependencies": {
         "@emotion/core": "^10.1.1",
