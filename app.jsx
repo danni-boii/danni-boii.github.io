@@ -357,4 +357,4 @@ const data = [
     { filename: "stream-2009.jpg", year: 2009, remarks: "Nature hidden in the campus" },
 ];
 
-ReactDOM.render(<App />, document.querySelector("#app2"));
+ReactDOM.render(<App />, document.querySelector("#react-app"));

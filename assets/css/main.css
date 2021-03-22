@@ -6,61 +6,6 @@
 }
 
 
-/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-
-.row.content {
-    height: 450px
-}
-
-
-/* Set gray background color and 100% height */
-
-.sidenav {
-    padding-top: 20px;
-    background-color: #f1f1f1;
-    height: 100%;
-}
-
-.slideshow {
-    margin: 0 auto;
-    overflow: hidden;
-    max-width: 500px;
-}
-
-.slideshowSlider {
-    white-space: nowrap;
-    transition: ease 1000ms;
-}
-
-.slide {
-    display: inline-block;
-    height: 400px;
-    width: 100%;
-    border-radius: 40px;
-}
-
-
-/* Buttons */
-
-.slideshowDots {
-    text-align: center;
-}
-
-.slideshowDot {
-    display: inline-block;
-    height: 20px;
-    width: 20px;
-    border-radius: 50%;
-    cursor: pointer;
-    margin: 15px 7px 0px;
-    background-color: #c4c4c4;
-}
-
-.slideshowDot.active {
-    background-color: #6a0dad;
-}
-
-
 /* Set black background color, white text and some padding */
 
 footer {
@@ -72,12 +17,4 @@ footer {
 
 /* On small screens, set height to 'auto' for sidenav and grid */
 
-@media screen and (max-width: 767px) {
-    .sidenav {
-        height: auto;
-        padding: 15px;
-    }
-    .row.content {
-        height: auto;
-    }
-}
+@media screen and (max-width: 760px) {}
