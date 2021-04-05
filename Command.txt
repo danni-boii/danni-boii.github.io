@@ -1,0 +1,3 @@
+After pushing
+cd C:\Users\Danny Boy\Documents\GitHub\danni-boii.github.io
+npm run deploy

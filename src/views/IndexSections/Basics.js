@@ -16,20 +16,12 @@
 
 */
 import React from "react";
-import classnames from "classnames";
-// plugin that creates slider
-import Slider from "nouislider";
 
 // reactstrap components
 import {
   Button,
-  Label,
   FormGroup,
-  CustomInput,
   Input,
-  InputGroupAddon,
-  InputGroupText,
-  InputGroup,
   Container,
   Row,
   Col,
