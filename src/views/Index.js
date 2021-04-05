@@ -45,23 +45,10 @@ export default function Index() {
   },[]);
   return (
     <>
-      <IndexNavbar />
       <div className="wrapper">
-        <PageHeader />
         <div className="main">
           <Basics />
-          <Navbars />
-          <Tabs />
-          <Pagination />
-          <Notifications />
-          <Typography />
-          <JavaScript />
-          <NucleoIcons />
-          <Signup />
-          <Examples />
-          <Download />
         </div>
-        <Footer />
       </div>
     </>
   );
